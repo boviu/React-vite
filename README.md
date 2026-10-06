@@ -6,12 +6,11 @@ usando React + Vite + React Router.
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
+Aurora Santos Gonçalves
 
-## Tecnologias
+Letícia Anti de Freitas Andrade
+
+## Tecnologias utilizadas
 
 - React 19
 - Vite
