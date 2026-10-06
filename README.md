@@ -1,6 +1,6 @@
 # Digital Project — Site de Arquitetura
 
-Recuperação do 3º bimestre. Recriação, em português, do protótipo
+Recuperação do 3º bimestre. Recriação do protótipo
 [Website of Architects (Figma)](https://www.figma.com/community/file/891374608655348853/website-of-architects-free-website)
 usando React + Vite + React Router.
 
